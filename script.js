@@ -1,6 +1,6 @@
 var internName = "Eziulo Austin";
-let taskOne = 8;
-let taskTwo = 8;
+let taskOne = 7;
+let taskTwo = 10;
 let taskThree = 9;
 const totalScore = (taskOne + taskTwo + taskThree);
 const averageScore = (totalScore / 3);
